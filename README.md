@@ -58,6 +58,7 @@
 |---|---|---|
 | **[Wave](https://github.com/Mohith32/Wave)** | End-to-end encrypted messaging — per-message AES keys, RSA key exchange, Redis Pub/Sub for horizontal scaling | Spring Boot · React Native · PostgreSQL · Redis · JWT |
 | **[Deadline Wall](https://github.com/Mohith32/DeadLine-Wall)** | Crowdsourced deadline tracker for college students — post deadlines, upvote to confirm accuracy, urgency-colored cards | Spring Boot · React Native · Supabase · Firebase Auth |
+| **Other projects** | Built several other React Native and Java applications across different domains | React Native · Java · Spring Boot |
 
 ---
 
