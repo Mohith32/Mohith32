@@ -21,8 +21,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohith%20Kumar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohithkumar2907)
-[![GitHub](https://img.shields.io/badge/GitHub-Mohith32-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohith32)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohithkumar.vercel.app-161B22?style=flat-square&logo=googlechrome&logoColor=58A6FF&labelColor=0D1117)](https://mohithkumar.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohith%20Kumar-161B22?style=flat-square&logo=linkedin&logoColor=58A6FF&labelColor=0D1117)](https://linkedin.com/in/mohithkumar2907)
+[![GitHub](https://img.shields.io/badge/GitHub-Mohith32-161B22?style=flat-square&logo=github&logoColor=58A6FF&labelColor=0D1117)](https://github.com/Mohith32)
 
 ---
 
@@ -82,12 +83,8 @@
 <div align="center">
 
 *Open to collaborating on backend systems, frontend, and agentic AI*  
-**Drop a message →** [linkedin.com/in/mohithkumar2907](https://linkedin.com/in/mohithkumar2907)
+**Drop a message →** [Portfolio](https://mohithkumar.vercel.app) · [linkedin.com/in/mohithkumar2907](https://linkedin.com/in/mohithkumar2907)
 
 
 
 </div>
-
-
-
-
