@@ -2,7 +2,7 @@
 
 ![banner](https://raw.githubusercontent.com/Mohith32/Mohith32/main/banner.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Building+systems+that+hold+up+under+pressure.;I+go+one+level+deeper;%2Cfull-stack.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Building+systems+that+hold+up+under+pressure.;I+go+one+level+deeper;full-stack.)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,8 +11,8 @@
 ### About me
 
 - Final-year CS @ BVRIT Narsapur
-- Founding Engineer Intern (Full-Stack) @ **Swirl** — a pre-launch fashion discovery app, handling frontend, backend, AI QA, and deployment
-- BAJA SAE 2025 — **All India Rank 3**
+- Founding Engineer Intern (Full-Stack) @ **Swirl** - a pre-launch fashion discovery app, handling frontend, backend, AI QA, and deployment
+- BAJA SAE 2025 - **All India Rank 3**
   ACC sub-team lead · Adaptive Cruise Control & AEB
 - Currently building **X-QSO**, a hybrid post-quantum cryptography platform (AES-256 + ML-KEM/ML-DSA + simulated QKD)
 - I'd rather understand *why* HikariCP pools connections
