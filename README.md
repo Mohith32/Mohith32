@@ -1,8 +1,8 @@
 <div align="center">
 
-![banner](https://raw.githubusercontent.com/Mohith32/Mohith32/main/banner.svg)
+![banner](https://raw.githubusercontent.com/Mohith32/Mohith32/main/banner.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Building+systems+that+hold+up+under+pressure.;I+go+one+level+deeper;Backend-first%2C+full-stack+when+needed.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Building+systems+that+hold+up+under+pressure.;I+go+one+level+deeper;%2Cfull-stack.)](https://git.io/typing-svg)
 
 </div>
 
