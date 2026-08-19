@@ -59,7 +59,7 @@
 |---|---|---|
 | **X-QSO** | Hybrid cryptography platform combining AES-256, post-quantum crypto (ML-KEM, ML-DSA), and simulated QKD (BB84/Qiskit) with explainable AI security analysis | Python · Qiskit · Cryptography |
 | **[Wave](https://github.com/Mohith32/Wave)** | End-to-end encrypted messaging — per-message AES keys, RSA key exchange, Redis Pub/Sub for horizontal scaling | Spring Boot · React Native · PostgreSQL · Redis · JWT |
-| **StillMe** | AI dementia companion agent with a living memory knowledge graph, voice I/O, and cognitive decline monitoring | Neo4j · Spring Boot · FastAPI · AWS Bedrock |
+| **StillMe** | AI dementia companion agent with a living memory knowledge graph, voice I/O, and cognitive decline monitoring | Neo4j · Spring Boot · FastAPI · AWS Bedrock · React Native |
 | **DevMentor** | AI-powered VS Code mentor for real-time coding guidance | Spring Boot · Claude API · PostgreSQL · Redis |
 
 ---
