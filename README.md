@@ -11,7 +11,7 @@
 ### About me
 
 - Final-year CS @ BVRIT Narsapur
-- Founding Engineer Intern (Full-Stack) @ **Swirl** - a pre-launch fashion discovery app, handling frontend, backend, AI QA, and deployment
+- Founding Engineer @ **Swirl** - a pre-launch fashion discovery app, handling frontend, backend, AI QA, and deployment
 - BAJA SAE 2025 - **All India Rank 3**
   ACC sub-team lead · Adaptive Cruise Control & AEB
 - Currently building **X-QSO**, a hybrid post-quantum cryptography platform (AES-256 + ML-KEM/ML-DSA + simulated QKD)
